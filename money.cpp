@@ -3,7 +3,6 @@
  Program: Money class - program assignment #1
  Due Date: Feb. 3, 2020
  Purpose: Converts money into different ways including change, float, change-float, and change-change.
- time spent: 6 hours
  ********/
 #include "money.h"
 using namespace std;
